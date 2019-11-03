@@ -108,7 +108,7 @@ These open source programs are exclusive to Puppy Linux, and were developed by t
 - [Pmusic](http://www.murga-linux.com/puppy/viewtopic.php?t=31206) - A very powerful and flexible music player, supports local files, online streams, radio, playlist management, and much more.
 - [Pnethood](http://www.murga-linux.com/puppy/viewtopic.php?t=23464) - Access your local networks "network neighbourhood".
 - [pRecord](http://murga-linux.com/puppy/viewtopic.php?t=49907) - A simple GUI to make it easy to record audio.
-- [Pup-advert-blocker](http://murga-linux.com/puppy/viewtopic.php?t=59290) - easily add adverts, adware, malware etc (uses /etc/hosts)
+- [Pup-advert-blocker](http://murga-linux.com/puppy/viewtopic.php?t=59290) - easily block adverts, adware, malware etc (uses /etc/hosts)
 - [PuppyPhone](http://murga-linux.com/puppy/viewtopic.php?t=70867) - A free, easy to use VoIP program.
 - [PupSnap](http://murga-linux.com/puppy/viewtopic.php?t=61361) - A more advanced screen capture program, with lots of settings.
 - [PupSysInfo](http://murga-linux.com/puppy/viewtopic.php?t=73101) - A really simple to use, informative system hardware info program (similar to HardInfo).
