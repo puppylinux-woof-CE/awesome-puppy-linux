@@ -75,7 +75,8 @@ Many more derivatives, remixes, spin-offs and unofficial releases are available 
 
 - [Puppy Linux Homepage](http://puppylinux.com)
 - [Puppy Linux Wiki](http://wikka.puppylinux.com/HomePage)
-- [Puppy Forum](http://murga-linux.com/puppy/)
+- [Puppy Linux Forum](http://murga-linux.com/puppy/)
+- [Puppy Linux Search Engine](https://puppysearch.neocities.org/index.html)
 - [Alternative Puppy Forum](http://puppylinux.info/)
 - [Puppy Linux at Linux Questions](https://www.linuxquestions.org/questions/puppy-71/)
 - [Puppy Linux on DistroWatch](https://distrowatch.com/table.php?distribution=puppy)
