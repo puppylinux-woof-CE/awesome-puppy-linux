@@ -108,13 +108,13 @@ These open source programs are exclusive to Puppy Linux, and were developed by t
 - [Pmusic](http://www.murga-linux.com/puppy/viewtopic.php?t=31206) - A very powerful and flexible music player, supports local files, online streams, radio, playlist management, and much more.
 - [Pnethood](http://www.murga-linux.com/puppy/viewtopic.php?t=23464) - Access your local networks "network neighbourhood".
 - [pRecord](http://murga-linux.com/puppy/viewtopic.php?t=49907) - A simple GUI to make it easy to record audio.
-- [Pup-advert-blocker](http://murga-linux.com/puppy/viewtopic.php?t=59290) - easily add blocklists to your /etc/hosts, to block adware, malware etc.
+- [Pup-advert-blocker](http://murga-linux.com/puppy/viewtopic.php?t=59290) - easily add adverts, adware, malware etc (uses /etc/hosts)
 - [PuppyPhone](http://murga-linux.com/puppy/viewtopic.php?t=70867) - A free, easy to use VoIP program.
 - [PupSnap](http://murga-linux.com/puppy/viewtopic.php?t=61361) - A more advanced screen capture program, with lots of settings.
 - [PupSysInfo](http://murga-linux.com/puppy/viewtopic.php?t=73101) - A really simple to use, informative system hardware info program (similar to HardInfo).
-- [TakeAShot]http://murga-linux.com/puppy/viewtopic.php?t=84528) - A simple screen capture program.
+- [TakeAShot](http://murga-linux.com/puppy/viewtopic.php?t=84528) - A simple screen capture program.
 - [UExtract](http://www.murga-linux.com/puppy/viewtopic.php?t=87864) - very, very powerful file archive manager (unzip/unpack almost any format!)
-- [Woofy]http://www.murga-linux.com/puppy/viewtopic.php?t=57037) - A user-friendly GUI to remaster/edit a Puppy Linux ISO file (use it to create custom versions of Puppy Linux).
+- [Woofy](http://www.murga-linux.com/puppy/viewtopic.php?t=57037) - A user-friendly GUI to remaster/edit a Puppy Linux ISO file (use it to create custom versions of Puppy Linux).
 - [YASSM](http://www.murga-linux.com/puppy/viewtopic.php?p=478154) - Yet Another Samba Setup Manager - manager your SAMBA (Windows and NFS) network shares.
 - and many more! Visit the [Puppy forums](http://murga-linux.com/puppy/) for many more Puppy Linux specific programs, scripts, hacks and tricks.
 
