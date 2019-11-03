@@ -7,17 +7,20 @@ best Puppy Linux releases, derivatives and supported programs.
 
 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcomed.
 
+Or join us at the famously friendly [Puppy Linux Forum](http://murga-linux.com/puppy). We're always
+happy to help our newest members, so [become a member](http://www.murga-linux.com/puppy/profile.php?mode=register) now.
+
 ## Table of Contents
 
 - [Official releases](#official-releases)
-- [Puppy derivatives](#derivatives) (spins-offs, remixes, etc)
-- [Setup](#setup)
-- [Documentation](#documentation)
-- [Discussion Forums](#discussion-forums)
-- [Learn Linux](#learn-linux)
+- [Puppy Derivatives](#puppy-derivatives) (spins-offs, remixes, etc)
+- [Puppy Sites](#puppy-sites)
+- [Puppy Documentation](#puppy-documentation)
 - [Applications](#applications)
+  - [Puppy Linux programs](puppy-linux-programs)
   - [Audio](#audio)
   - [Chat Clients](#chat-clients)
+  - [Command-line programs](#command-line-programs)
   - [Data Recovery](#data-recovery)
   - [Desktop Customization](#desktop-customization)
   - [Desktop Environments](#desktop-environments)
@@ -36,7 +39,7 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
   - [Utilities](#utilities)
   - [Video](#video)
   - [Others](#others)
-- [Command Line Utilities](#command-line-utilities)
+- [General Linux Websites](#general-linux-websites)
 - [Contributors](#contributors)
 - [Guideline to Contribute](#guideline-to-contribute)
 
@@ -61,26 +64,25 @@ More versions are available on the [official releases downloads page](http://pup
 - [FatDog64](https://distro.ibiblio.org/fatdog/web/) - a 64 bit Linux OS, started life as a Puppy fork, now an (excellent) independent distro.
 - [MacPup](http://macpup.org/) - a beautiful version of Puppy Linux, using the e3 window manager, styled similarly to Apples Max OS.
 - [Puppy Arcade 11](https://archive.org/download/Puppy_Linux_Puppy_Arcade/slacko_arcade.iso) - a [retro gaming focused distro](http://murga-linux.com/puppy/viewtopic.php?t=92414) with support for a huge number of retro consoles and platforms.
+- [Simplicity Linux](http://www.simplicitylinux.org/) - a fast, polished, well-rounded distro, with a choice of deskop environments (Xfce, LDXE, others). Based on Puppy Linux.
 - [studio](http://puppystudio.tiddlyspot.com/) - a music production focused Puppy with excellent performance.
 
-## Setup
-
-### Puppy
-
-- [How to install Puppy Linux, with screenshots](https://www.wikihow.com/Install-Puppy-Linux)
-- [How to install Puppy Linux](http://puppylinux.com/install.html)
-- [How to dual-boot Puppy with Windows 10, using LICK](https://www.trishtech.com/2016/09/install-puppy-linux-in-dual-boot-mode-windows-10/)
-- [How to dual-boot Puppy with Windows XP](http://www.murga-linux.com/puppy/viewtopic.php?t=44098)
-
-### Puppy Linux Help
-
-## Documentation
+## Puppy Sites
 
 - [Puppy Linux Wiki](http://wikka.puppylinux.com/HomePage)
 - [Puppy Forum](http://murga-linux.com/puppy/)
 - [Alternative Puppy Forum](http://puppylinux.info/)
 - [Puppy Linux at Linux Questions](https://www.linuxquestions.org/questions/puppy-71/)
 - [Puppy Linux on DistroWatch](https://distrowatch.com/table.php?distribution=puppy)
+
+## Puppy Documentation
+
+### Installing Puppy Linux
+
+- [How to install Puppy Linux, with screenshots](https://www.wikihow.com/Install-Puppy-Linux)
+- [How to install Puppy Linux](http://puppylinux.com/install.html)
+- [How to dual-boot Puppy with Windows 10, using LICK](https://www.trishtech.com/2016/09/install-puppy-linux-in-dual-boot-mode-windows-10/)
+- [How to dual-boot Puppy with Windows XP](http://www.murga-linux.com/puppy/viewtopic.php?t=44098)
 
 ### Guides and Tutorials
 
@@ -92,32 +94,11 @@ More versions are available on the [official releases downloads page](http://pup
 
 - [#puppylinux](irc://irc.freenode.net/puppylinux)
 
-### General Linux News, Apps, and more ...
-
-- [What is Linux](https://www.linux.com/what-is-linux)
-- [Basic Linux term](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
-- [ITSFOSS](https://itsfoss.com/)
-- [Linux official](https://www.linux.com/)
-- [Webupd8](http://www.webupd8.org/)
-- [Noobslab](http://www.noobslab.com/)
-- [Make use of](http://www.makeuseof.com/service/linux/)
-
-### Reddit
-
-- [Linux](https://www.reddit.com/r/linux/)
-- [Open Source](https://www.reddit.com/r/opensource/)
-- [Unix Porn](https://www.reddit.com/r/unixporn/)
-- [Linux Kernel](https://www.reddit.com/r/kernel/)
-
-## Learn Linux
-
-- [Learn Linux Command](http://linuxcommand.org/)
-- [Learn Linux](https://linuxjourney.com/)
-- [Linux Course](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
-
 ## Applications
 
-### Puppy Linux exclusive applications
+### Puppy Linux programs
+
+These open source programs are exclusive to Puppy Linux, and were developed by the Puppy Linux community.
 
 - [FFConvert](http://www.murga-linux.com/puppy/viewtopic.php?t=54056) - Convert media files between different formats and presets.
 - [pBurn](http://www.murga-linux.com/puppy/viewtopic.php?t=23881) - A nice CD/DVD burning program, supports lots of formats.
@@ -132,7 +113,9 @@ More versions are available on the [official releases downloads page](http://pup
 - [PupSysInfo](http://murga-linux.com/puppy/viewtopic.php?t=73101) - A really simple to use, informative system hardware info program (similar to HardInfo).
 - [TakeAShot]http://murga-linux.com/puppy/viewtopic.php?t=84528) - A simple screen capture program.
 - [UExtract](http://www.murga-linux.com/puppy/viewtopic.php?t=87864) - very, very powerful file archive manager (unzip/unpack almost any format!)
+- [Woofy]http://www.murga-linux.com/puppy/viewtopic.php?t=57037) - A user-friendly GUI to remaster/edit a Puppy Linux ISO file (use it to create custom versions of Puppy Linux).
 - [YASSM](http://www.murga-linux.com/puppy/viewtopic.php?p=478154) - Yet Another Samba Setup Manager - manager your SAMBA (Windows and NFS) network shares.
+- and many more! Visit the [Puppy forums](http://murga-linux.com/puppy/) for many more Puppy Linux specific programs, scripts, hacks and tricks.
 
 ### Audio
 
@@ -154,6 +137,10 @@ More versions are available on the [official releases downloads page](http://pup
 - [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][oss icon]](https://github.com/overtake/telegram) ![Freeware][freeware icon]
 - [Viber](https://www.viber.com/en/products/linux) -Viber for Linux lets you send free messages and make free calls to other Viber users on any device and network, in any country ![Freeware][freeware icon]
 - [Whatsie](https://github.com/MerkeX/whatsie) - Whatsapp unofficial client for ubuntu/linux. [![Open-Source Software][oss icon]](https://github.com/MerkeX/whatsie) ![Freeware][freeware icon]
+
+### Command-line programs
+
+- TODO
 
 ### Data Recovery
 
@@ -356,7 +343,32 @@ More versions are available on the [official releases downloads page](http://pup
 
 - [VLC](http://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ![Freeware][freeware icon]
 
-## Command Line Utilities
+## General Linux Websites
+
+### Linux News, Apps, and more ...
+
+- [What is Linux](https://www.linux.com/what-is-linux)
+- [Basic Linux term](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
+- [ITSFOSS](https://itsfoss.com/)
+- [Linux official](https://www.linux.com/)
+- [Webupd8](http://www.webupd8.org/)
+- [Noobslab](http://www.noobslab.com/)
+- [Make use of](http://www.makeuseof.com/service/linux/)
+
+### Reddit
+
+- [Linux](https://www.reddit.com/r/linux/)
+- [Open Source](https://www.reddit.com/r/opensource/)
+- [Unix Porn](https://www.reddit.com/r/unixporn/)
+- [Linux Kernel](https://www.reddit.com/r/kernel/)
+
+### Learn Linux
+
+- [Learn Linux Command](http://linuxcommand.org/)
+- [Learn Linux](https://linuxjourney.com/)
+- [Linux Course](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
+
+### Command Line Utilities
 
 - [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
 
@@ -384,6 +396,7 @@ List of contributors
 _Items marked with ![Open-Source Software][oss icon] are open-source software and link to the source code. Items marked with ![Freeware][freeware icon] are free (as in free beer)._
 
 <br>
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
