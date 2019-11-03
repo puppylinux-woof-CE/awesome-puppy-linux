@@ -62,7 +62,7 @@ More versions are available on the [official releases downloads page](http://pup
 - [Barebones Puppies](http://www.murga-linux.com/puppy/viewtopic.php?t=83841) - various stripped-down versions of Puppy Linux.
 - [EasyOS](https://easyos.org/about/how-and-why-easyos-is-different.html) - created by Barry Kauler, the original creator and developer of Puppy Linux.
 - [FatDog64](https://distro.ibiblio.org/fatdog/web/) - a 64 bit Linux OS, started life as a Puppy fork, now an (excellent) independent distro.
-- [MacPup](http://macpup.org/) - a beautiful version of Puppy Linux, using the e3 window manager, styled similarly to Apples Max OS.
+- [MacPup](http://macpup.org/) - a beautiful version of Puppy Linux, using the e3 window manager, styled similarly to Mac OS.
 - [Puppy Arcade 11](https://archive.org/download/Puppy_Linux_Puppy_Arcade/slacko_arcade.iso) - a [retro gaming focused distro](http://murga-linux.com/puppy/viewtopic.php?t=92414) with support for a huge number of retro consoles and platforms.
 - [Simplicity Linux](http://www.simplicitylinux.org/) - a fast, polished, well-rounded distro, with a choice of deskop environments (Xfce, LDXE, others). Based on Puppy Linux.
 - [studio](http://puppystudio.tiddlyspot.com/) - a music production focused Puppy with excellent performance.
