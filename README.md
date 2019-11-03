@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/puppylinux-woof-CE/awesome-puppy-linux/master/puppy-linux-logo.png)
 
-**Puppy Linux** is an awesome Linux distro, and here's a list of all the
+**Puppy Linux** is an [awesome Linux distro](https://github.com/puppylinux-woof-CE/awesome-puppy-linux/blob/master/why-puppy-linux-is-awesome.md), and here's a list of all the
 best Puppy Linux releases, derivatives and supported programs.
 
 Feel free to **contribute** / **star** / **fork** / **pull request** . <br>
