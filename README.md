@@ -69,6 +69,7 @@ More versions are available on the [official releases downloads page](http://pup
 
 ## Puppy Sites
 
+- [Puppy Linux Homepage](http://puppylinux.com)
 - [Puppy Linux Wiki](http://wikka.puppylinux.com/HomePage)
 - [Puppy Forum](http://murga-linux.com/puppy/)
 - [Alternative Puppy Forum](http://puppylinux.info/)
@@ -86,7 +87,7 @@ More versions are available on the [official releases downloads page](http://pup
 
 ### Guides and Tutorials
 
-- [A beginners guide to installing puppy](http://www.murga-linux.com/puppy/viewtopic.php?p=199289) - a guide from one of our mos experienced members
+- [A beginners guide to installing puppy](http://www.murga-linux.com/puppy/viewtopic.php?p=199289) - a guide from one of our most experienced members
 - [Puppy How-To videos](http://rhinoweb.us/) - useful tutorials and guides
 - [What is Puppy Linux](http://puppylinux.com/)
 
