@@ -1,6 +1,6 @@
 # Awesome Puppy Linux
 
-![](https://i.imgur.com/HGue1Lj.jpg)
+![](https://raw.githubusercontent.com/puppylinux-woof-CE/awesome-puppy-linux/master/puppy-linux-logo.png)
 
 **Puppy Linux** is an awesome Linux distro, and here's a list of all the
 best Puppy Linux releases, derivatives and supported programs.
