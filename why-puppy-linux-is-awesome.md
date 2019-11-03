@@ -1,4 +1,4 @@
-# Why `Puppy Linux` is awesome
+# Why Puppy Linux is awesome
 
 ![](https://raw.githubusercontent.com/puppylinux-woof-CE/awesome-puppy-linux/master/puppy-linux-logo.png)
 
@@ -10,6 +10,12 @@ installed by default.
 
 Puppy runs super fast - the programs included in Puppy Linux are chosen for
 their speed and small size, as well as being useful and user-friendly.
+
+Puppy runs your programs in RAM, and minimises hard disk usage as much as possible.
+It can even be setup to run the whole operating system in RAM so it's even faster
+(at the cost of slightly slower boot times).
+
+With Puppy Linux, even old PCs will run fast.
 
 ## Puppy is simple
 
@@ -44,6 +50,17 @@ Puppy Linux offers access to the package repos of the distro from which it was
 built - if your Puppy Linux was built from Ubuntu Bionic packages, then the
 huge selection of Ubuntu Bionic packages and repos will be available in your
 `Puppy Package Manager (PPM)`.
+
+## Puppy is secure
+
+Your OS settings are saved separate from the OS itself - in a save file or save
+folder. This can be an encrypted file, for extra security.
+
+You can choose retain your settings between reboots, or not. With Puppy Linux,
+it's easy to boot a "fresh" or "pristine" install any time you like.
+
+With Puppy you can keep your personal files and sensitive data separate from your
+OS, even leaving no trace of previous activity between reboots.
 
 ## Puppy is faithful
 
@@ -83,7 +100,7 @@ in "what Puppy should be", and everyone can submit scripts, patches, new
 programs etc right away - without the need to submit a 1000 posts first, like
 _some_ Linux forums ;)
 
-# What to know more about `Puppy Linux`?
+# What to know more about Puppy Linux?
 
 Visit these Puppy Linux related sites:
 
