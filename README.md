@@ -118,7 +118,8 @@ These open source programs are exclusive to Puppy Linux, and were developed by t
 - [UExtract](http://www.murga-linux.com/puppy/viewtopic.php?t=87864) - very, very powerful file archive manager (unzip/unpack almost any format!)
 - [Woofy](http://www.murga-linux.com/puppy/viewtopic.php?t=57037) - A simple GUI to create custom versions of Puppy Linux from an ISO file.
 - [YASSM](http://www.murga-linux.com/puppy/viewtopic.php?p=478154) - Yet Another Samba Setup Manager - manager your SAMBA (Windows and NFS) network shares.
-- and many more! Visit the [Puppy forums](http://murga-linux.com/puppy/) for many more Puppy Linux specific programs, scripts, hacks and tricks.
+
+Visit the [Puppy forums](http://murga-linux.com/puppy/) for many more Puppy Linux specific programs, scripts, hacks and tricks.
 
 ### Audio
 
