@@ -106,7 +106,7 @@ These open source programs are exclusive to Puppy Linux, and were developed by t
 - [FFConvert](http://www.murga-linux.com/puppy/viewtopic.php?t=54056) - Convert media files between different formats and presets.
 - [pBurn](http://www.murga-linux.com/puppy/viewtopic.php?t=23881) - A nice CD/DVD burning program, supports lots of formats.
 - [PeasyPrint](http://www.murga-linux.com/puppy/viewtopic.php?p=546198) - a simple GUI to help users print their photos, documents, etc.
-- [Pkg](https://gitlab.com/sc0ttj/Pkg) - a powerful command-line package manager, similar to `apt-get` or `yum`, but made just for Puppy Linux.
+- [Pkg](https://gitlab.com/sc0ttj/Pkg) - a powerful command-line package manager, similar to `apt-get`, `pkg-tools`, or `yum` (etc).
 - [Pmusic](http://www.murga-linux.com/puppy/viewtopic.php?t=31206) - A very powerful and flexible music player, supports local files, online streams, radio, playlist management, and much more.
 - [Pnethood](http://www.murga-linux.com/puppy/viewtopic.php?t=23464) - Access your local networks "network neighbourhood".
 - [pRecord](http://murga-linux.com/puppy/viewtopic.php?t=49907) - A simple GUI to make it easy to record audio.
@@ -116,7 +116,7 @@ These open source programs are exclusive to Puppy Linux, and were developed by t
 - [PupSysInfo](http://murga-linux.com/puppy/viewtopic.php?t=73101) - A really simple to use, informative system hardware info program (similar to HardInfo).
 - [TakeAShot](http://murga-linux.com/puppy/viewtopic.php?t=84528) - A simple screen capture program.
 - [UExtract](http://www.murga-linux.com/puppy/viewtopic.php?t=87864) - very, very powerful file archive manager (unzip/unpack almost any format!)
-- [Woofy](http://www.murga-linux.com/puppy/viewtopic.php?t=57037) - A user-friendly GUI to remaster/edit a Puppy Linux ISO file (use it to create custom versions of Puppy Linux).
+- [Woofy](http://www.murga-linux.com/puppy/viewtopic.php?t=57037) - A simple GUI to create custom versions of Puppy Linux from an ISO file.
 - [YASSM](http://www.murga-linux.com/puppy/viewtopic.php?p=478154) - Yet Another Samba Setup Manager - manager your SAMBA (Windows and NFS) network shares.
 - and many more! Visit the [Puppy forums](http://murga-linux.com/puppy/) for many more Puppy Linux specific programs, scripts, hacks and tricks.
 
