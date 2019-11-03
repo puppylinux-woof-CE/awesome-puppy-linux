@@ -5,10 +5,12 @@
 **Puppy Linux** is an awesome Linux distro, and here's a list of all the
 best Puppy Linux releases, derivatives and supported programs.
 
-Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcomed.
+Feel free to **contribute** / **star** / **fork** / **pull request** . <br>
+Any **recommendations** and **suggestions** are welcome.
 
-Or join us at the famously friendly [Puppy Linux Forum](http://murga-linux.com/puppy). We're always
-happy to help our newest members, so [become a member](http://www.murga-linux.com/puppy/profile.php?mode=register) now.
+Or **join us** at the famously friendly [Puppy Linux Forum](http://murga-linux.com/puppy).
+
+We're always happy to help our newest members, so **[become a member](http://www.murga-linux.com/puppy/profile.php?mode=register)** now.
 
 ## Table of Contents
 
@@ -107,6 +109,7 @@ These open source programs are exclusive to Puppy Linux, and were developed by t
 - [pBurn](http://www.murga-linux.com/puppy/viewtopic.php?t=23881) - A nice CD/DVD burning program, supports lots of formats.
 - [PeasyPrint](http://www.murga-linux.com/puppy/viewtopic.php?p=546198) - a simple GUI to help users print their photos, documents, etc.
 - [Pkg](https://gitlab.com/sc0ttj/Pkg) - a powerful command-line package manager, similar to `apt-get`, `pkg-tools`, or `yum` (etc).
+- [Pmount](https://github.com/puppylinux-woof-CE/woof-CE/blob/216ab0dda0157d4275aaf8f49ee39cfb265962e4/woof-code/rootfs-skeleton/usr/sbin/pmount) - a super easy way to mount and unmount your hard drives, USBs, etc.
 - [Pmusic](http://www.murga-linux.com/puppy/viewtopic.php?t=31206) - A very powerful and flexible music player, supports local files, online streams, radio, playlist management, and much more.
 - [Pnethood](http://www.murga-linux.com/puppy/viewtopic.php?t=23464) - Access your local networks "network neighbourhood".
 - [pRecord](http://murga-linux.com/puppy/viewtopic.php?t=49907) - A simple GUI to make it easy to record audio.
@@ -346,6 +349,10 @@ Visit the [Puppy forums](http://murga-linux.com/puppy/) for many more Puppy Linu
 ### Video
 
 - [VLC](http://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ![Freeware][freeware icon]
+
+### Web-based applications
+
+- TODO
 
 ## General Linux Websites
 
