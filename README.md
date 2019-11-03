@@ -67,6 +67,8 @@ More versions are available on the [official releases downloads page](http://pup
 - [Simplicity Linux](http://www.simplicitylinux.org/) - a fast, well-rounded distro, multiple flavours (Xfce, LDXE, others).
 - [studio](http://puppystudio.tiddlyspot.com/) - a music production focused Puppy with excellent performance.
 
+Many more derivatives, remixes, spin-offs and unofficial releases are available in the [Puppy Derivatives](http://murga-linux.com/puppy/index.php?f=35) of the Puppy forum.
+
 ## Puppy Sites
 
 - [Puppy Linux Homepage](http://puppylinux.com)
