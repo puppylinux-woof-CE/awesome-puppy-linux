@@ -49,9 +49,11 @@ We're always happy to help our newest members, so **[become a member](http://www
 
 | Release Name                                                       | Supported systems | Release Date | Built from                      |
 | ------------------------------------------------------------------ | ----------------- | ------------ | ------------------------------- |
+| [FossaPup64](https://forum.puppylinux.com/viewtopic.php?f=146&t=820)| 64 bit           | Sep 20, 2020 | Ubuntu 20.04 LTS (Focal) amd64  |
 | [BionicPup32](http://murga-linux.com/puppy/viewtopic.php?t=113244) | 32 bit            | April, 2018  | Ubuntu 18.04 LTS (Bionic) i686  |
 | [BionicPup64](http://murga-linux.com/puppy/viewtopic.php?t=114311) | 64 bit            | Sept, 2018   | Ubuntu 18.04 LTS (Bionic) amd64 |
 | [ScPup](http://murga-linux.com/puppy/viewtopic.php?t=96748)        | 32 and 64 bit     | Dec 2018     | Slackware 14.1                  |
+| [DpupStretrch](http://oldforum.puppylinux.com/puppy/viewtopic.php?t=112125) | 32 bit   | Dec 2017     | Debian Stretch i686             |
 | [XenialPup](http://murga-linux.com/puppy/viewtopic.php?t=106479)   | 32 bit            | April, 2016  | Ubuntu 16.04 LTS (Xenial) i686  |
 | [XenialPup64](http://murga-linux.com/puppy/viewtopic.php?t=107331) | 64 bit            | June 2016    | Ubuntu 16.04 LTS (Xenial) amd64 |
 | [TahrPup](http://murga-linux.com/puppy/viewtopic.php?t=96178)      | 32 bit            | Oct 2014     | Ubuntu 14.04 LTS (Tahr) i686    |
