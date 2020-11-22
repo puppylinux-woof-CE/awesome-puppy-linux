@@ -49,7 +49,8 @@ We're always happy to help our newest members, so **[become a member](http://www
 
 | Release Name                                                       | Supported systems | Release Date | Built from                      |
 | ------------------------------------------------------------------ | ----------------- | ------------ | ------------------------------- |
-| [FossaPup64](https://forum.puppylinux.com/viewtopic.php?f=146&t=820)| 64 bit           | Sep 20, 2020 | Ubuntu 20.04 LTS (Focal) amd64  |
+| [FossaPup64](https://forum.puppylinux.com/viewtopic.php?f=146&t=820)| 64 bit           | Sep, 2020    | Ubuntu 20.04 LTS (Focal) amd64  |
+| [Rasppup](https://forum.puppylinux.com/viewtopic.php?f=33&p=620&i=1)| armhf 32-bit     | July 2020    | Raspbian Buster armhf           |
 | [BionicPup32](http://murga-linux.com/puppy/viewtopic.php?t=113244) | 32 bit            | April, 2018  | Ubuntu 18.04 LTS (Bionic) i686  |
 | [BionicPup64](http://murga-linux.com/puppy/viewtopic.php?t=114311) | 64 bit            | Sept, 2018   | Ubuntu 18.04 LTS (Bionic) amd64 |
 | [ScPup](http://murga-linux.com/puppy/viewtopic.php?t=96748)        | 32 and 64 bit     | Dec 2018     | Slackware 14.1                  |
