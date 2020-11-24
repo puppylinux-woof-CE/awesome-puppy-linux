@@ -77,7 +77,6 @@ Many more derivatives, remixes, spin-offs and unofficial releases are available 
 ## Puppy Sites
 
 - [Puppy Linux Homepage](http://puppylinux.com)
-- [Puppy Linux Wiki](http://wikka.puppylinux.com/HomePage)
 - [Puppy Linux Forum](https://forum.puppylinux.com/)
 - [Puppy Linux Search Engine](https://puppysearch.neocities.org/index.html)
 - [Alternative Puppy Forum](http://puppylinux.info/)
