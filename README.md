@@ -8,9 +8,9 @@ best Puppy Linux releases, derivatives and supported programs.
 Feel free to **contribute** / **star** / **fork** / **pull request** . <br>
 Any **recommendations** and **suggestions** are welcome.
 
-Or **join us** at the famously friendly [Puppy Linux Forum](http://murga-linux.com/puppy).
+Or **join us** at the famously friendly [Puppy Linux Forum](https://forum.puppylinux.com/).
 
-We're always happy to help our newest members, so **[become a member](http://www.murga-linux.com/puppy/profile.php?mode=register)** now.
+We're always happy to help our newest members, so **[become a member](https://forum.puppylinux.com/ucp.php?mode=register)** now.
 
 ## Table of Contents
 
@@ -78,7 +78,7 @@ Many more derivatives, remixes, spin-offs and unofficial releases are available 
 
 - [Puppy Linux Homepage](http://puppylinux.com)
 - [Puppy Linux Wiki](http://wikka.puppylinux.com/HomePage)
-- [Puppy Linux Forum](http://murga-linux.com/puppy/)
+- [Puppy Linux Forum](https://forum.puppylinux.com/)
 - [Puppy Linux Search Engine](https://puppysearch.neocities.org/index.html)
 - [Alternative Puppy Forum](http://puppylinux.info/)
 - [Puppy Linux at Linux Questions](https://www.linuxquestions.org/questions/puppy-71/)
@@ -126,7 +126,7 @@ These open source programs are exclusive to Puppy Linux, and were developed by t
 - [Woofy](http://www.murga-linux.com/puppy/viewtopic.php?t=57037) - A simple GUI to create custom versions of Puppy Linux from an ISO file.
 - [YASSM](http://www.murga-linux.com/puppy/viewtopic.php?p=478154) - Yet Another Samba Setup Manager - manager your SAMBA (Windows and NFS) network shares.
 
-Visit the [Puppy forums](http://murga-linux.com/puppy/) for many more Puppy Linux specific programs, scripts, hacks and tricks.
+Visit the [Puppy forums](https://forum.puppylinux.com/) for many more Puppy Linux specific programs, scripts, hacks and tricks.
 
 ### Audio
 
