@@ -53,10 +53,12 @@ We're always happy to help our newest members, so **[become a member](https://fo
 | [Rasppup](https://forum.puppylinux.com/viewtopic.php?f=33&p=620&i=1)| armhf 32-bit     | July 2020    | Raspbian Buster armhf           |
 | [BionicPup32](http://murga-linux.com/puppy/viewtopic.php?t=113244) | 32 bit            | April, 2018  | Ubuntu 18.04 LTS (Bionic) i686  |
 | [BionicPup64](http://murga-linux.com/puppy/viewtopic.php?t=114311) | 64 bit            | Sept, 2018   | Ubuntu 18.04 LTS (Bionic) amd64 |
-| [ScPup](http://murga-linux.com/puppy/viewtopic.php?t=96748)        | 32 and 64 bit     | Dec 2018     | Slackware 14.1                  |
+| [ScPup](http://oldforum.puppylinux.com/puppy/viewtopic.php?t=114980)| 32 and 64 bit    | Dec 2018     | Slackware Current               |
 | [DpupStretrch](http://oldforum.puppylinux.com/puppy/viewtopic.php?t=112125) | 32 bit   | Dec 2017     | Debian Stretch i686             |
+| [Slacko-14.2](http://murga-linux.com/puppy/viewtopic.php?t=106479)   | 32 and 64 bit   | April, 2016  | Slackware 14.2                  |
 | [XenialPup](http://murga-linux.com/puppy/viewtopic.php?t=106479)   | 32 bit            | April, 2016  | Ubuntu 16.04 LTS (Xenial) i686  |
 | [XenialPup64](http://murga-linux.com/puppy/viewtopic.php?t=107331) | 64 bit            | June 2016    | Ubuntu 16.04 LTS (Xenial) amd64 |
+| [Slacko-14.1](http://slacko.eezy.xyz/)                             | 32 and 64 bit     | Nov 2015     | Slackware 14.1                  |
 | [TahrPup](http://murga-linux.com/puppy/viewtopic.php?t=96178)      | 32 bit            | Oct 2014     | Ubuntu 14.04 LTS (Tahr) i686    |
 | [TahrPup64](http://murga-linux.com/puppy/viewtopic.php?t=96748)    | 64 bit            | Dec 2014     | Ubuntu 14.04 LTS (Tahr) i686    |
 
